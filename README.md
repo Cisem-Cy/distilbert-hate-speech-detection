@@ -1,7 +1,7 @@
 # distilbert-hate-speech-detection
 This repository contains a neural NLP project focused on classifying social media content into three categories: Hate Speech, Offensive Language, or Neither. The project was developed as a final project for the **Large Language Models** course at the **University of Konstanz**. 
 
-* **Language:** Python 3.x
+* **Language:** Python
 * **Model:** DistilBERT (`distilbert-base-uncased`) - Fine-tuned for sequence classification.
 * **Deep Learning Framework:** PyTorch & Hugging Face Transformers.
 * **Data Processing:** Pandas, NumPy, Datasets (Hugging Face).
